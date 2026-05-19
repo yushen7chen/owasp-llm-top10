@@ -38,7 +38,7 @@ demonstration, detection guidance, and real-world CVE/incident references.
 
 | LLM02 | Insecure Output Handling | ✅ Complete | ✅ | ✅ | ✅ |
 
-| LLM03 | Training Data Poisoning | 📋 Planned | - | - | - |
+| LLM03 | Training Data Poisoning | ✅ Complete | ✅ | ✅ | ✅ |
 
 | LLM04 | Model Denial of Service | 📋 Planned | - | - | - |
 
