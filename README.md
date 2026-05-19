@@ -42,7 +42,7 @@ demonstration, detection guidance, and real-world CVE/incident references.
 
 | LLM04 | Model Denial of Service | ✅ Complete | ✅ | ✅ | ✅ |
 
-| LLM05 | Supply Chain Vulnerabilities | 📋 Planned | - | - | - |
+| LLM05 | Supply Chain Vulnerabilities | ✅ Complete | ✅ | ✅ | ✅ |
 
 | LLM06 | Sensitive Information Disclosure | 📋 Planned | - | - | - |
 
