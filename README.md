@@ -50,7 +50,7 @@ demonstration, detection guidance, and real-world CVE/incident references.
 
 | LLM08 | Excessive Agency | ✅ Complete | ✅ | ✅ | ✅ |
 
-| LLM09 | Overreliance | 📋 Planned | - | - | - |
+| LLM09 | Overreliance | ✅ Complete | ✅ | ✅ | ✅ |
 
 | LLM10 | Model Theft | 📋 Planned | - | - | - |
 
