@@ -40,7 +40,7 @@ demonstration, detection guidance, and real-world CVE/incident references.
 
 | LLM03 | Training Data Poisoning | ✅ Complete | ✅ | ✅ | ✅ |
 
-| LLM04 | Model Denial of Service | 📋 Planned | - | - | - |
+| LLM04 | Model Denial of Service | ✅ Complete | ✅ | ✅ | ✅ |
 
 | LLM05 | Supply Chain Vulnerabilities | 📋 Planned | - | - | - |
 
