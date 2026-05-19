@@ -48,7 +48,7 @@ demonstration, detection guidance, and real-world CVE/incident references.
 
 | LLM07 | Insecure Plugin Design | ✅ Complete | ✅ | ✅ | ✅ |
 
-| LLM08 | Excessive Agency | 📋 Planned | - | - | - |
+| LLM08 | Excessive Agency | ✅ Complete | ✅ | ✅ | ✅ |
 
 | LLM09 | Overreliance | 📋 Planned | - | - | - |
 
