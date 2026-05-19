@@ -52,7 +52,7 @@ demonstration, detection guidance, and real-world CVE/incident references.
 
 | LLM09 | Overreliance | ✅ Complete | ✅ | ✅ | ✅ |
 
-| LLM10 | Model Theft | 📋 Planned | - | - | - |
+| LLM10 | Model Theft | ✅ Complete | ✅ | ✅ | ✅ |
 
 
 
