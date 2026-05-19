@@ -46,7 +46,7 @@ demonstration, detection guidance, and real-world CVE/incident references.
 
 | LLM06 | Sensitive Information Disclosure | ✅ Complete | ✅ | ✅ | ✅ |
 
-| LLM07 | Insecure Plugin Design | 📋 Planned | - | - | - |
+| LLM07 | Insecure Plugin Design | ✅ Complete | ✅ | ✅ | ✅ |
 
 | LLM08 | Excessive Agency | 📋 Planned | - | - | - |
 
