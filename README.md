@@ -44,7 +44,7 @@ demonstration, detection guidance, and real-world CVE/incident references.
 
 | LLM05 | Supply Chain Vulnerabilities | ✅ Complete | ✅ | ✅ | ✅ |
 
-| LLM06 | Sensitive Information Disclosure | 📋 Planned | - | - | - |
+| LLM06 | Sensitive Information Disclosure | ✅ Complete | ✅ | ✅ | ✅ |
 
 | LLM07 | Insecure Plugin Design | 📋 Planned | - | - | - |
 
