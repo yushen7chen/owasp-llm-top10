@@ -36,7 +36,7 @@ demonstration, detection guidance, and real-world CVE/incident references.
 
 | LLM01 | Prompt Injection | ✅ Complete | ✅ | ✅ | ✅ |
 
-| LLM02 | Insecure Output Handling | 📋 Planned | - | - | - |
+| LLM02 | Insecure Output Handling | ✅ Complete | ✅ | ✅ | ✅ |
 
 | LLM03 | Training Data Poisoning | 📋 Planned | - | - | - |
 
